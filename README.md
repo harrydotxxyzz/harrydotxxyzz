@@ -14,7 +14,4 @@ i know these languages:
 
 ---
 
-## <img src="https://api.iconify.design/lucide:bar-chart-2.svg?color=white" width="20" height="20"> github stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harrydotxxyzz&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harrydotxxyzz&layout=compact&theme=github_dark&hide_border=true)
+this ted guy is rly cool
