@@ -6,7 +6,7 @@ just a guy maybe a developer
 
 ---
 
-## <img src="https://api.iconify.design/lucide:wrench.svg?color=white" width="20" height="20"> technologies & tools
+## <img src="https://api.iconify.design/lucide:wrench.svg?color=white" width="20" height="20"> languages & experience
 
 i know these languages:
 
