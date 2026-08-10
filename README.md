@@ -6,7 +6,7 @@ just a guy
 
 ---
 
-## <img src="https://api.iconify.design/lucide:wrench.svg?color=white" width="20" height="20"> languages & experience
+## <img src="https://api.iconify.design/lucide:wrench.svg?color=white" width="20" height="20"> languages
 
 
 ![Lua](https://img.shields.io/badge/LUA-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
