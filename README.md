@@ -10,7 +10,3 @@ just a guy
 
 
 ![Lua](https://img.shields.io/badge/LUA-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-
----
-
-this ted guy is rly cool
